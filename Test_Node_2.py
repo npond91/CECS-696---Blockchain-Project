@@ -1,3 +1,8 @@
+# Nick Pond
+# CECS 696 - Spring 2019
+# Master's Project
+# Blockchain API
+
 from uuid import uuid4
 from flask import Flask, jsonify, request
 from Blockchain_Project import blockchain

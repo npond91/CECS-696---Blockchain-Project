@@ -1,3 +1,8 @@
+# Nick Pond
+# CECS 696 - Spring 2019
+# Master's Project
+# Manual Proof of Work Validation
+
 import hashlib
 
 previous_block_hash = input("Enter Previous Block Hash: ")

@@ -1,3 +1,8 @@
+# Nick Pond
+# CECS 696 - Spring 2019
+# Master's Project
+# Block and Transaction Testing
+
 from Blockchain_Project import blockchain
 
 # setup test chain
